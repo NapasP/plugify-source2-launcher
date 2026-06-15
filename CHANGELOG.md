@@ -1,5 +1,26 @@
 # Changelog
 
+## [2.4.5](https://github.com/untrustedmodders/plugify-source2-launcher/compare/v2.4.4...v2.4.5) (2026-06-14)
+
+
+### Bug Fixes
+
+* update flags tracy ([298cb81](https://github.com/untrustedmodders/plugify-source2-launcher/commit/298cb8138076c0e5579e75c2269b0593faf91ab4))
+
+## [2.4.4](https://github.com/untrustedmodders/plugify-source2-launcher/compare/v2.4.3...v2.4.4) (2026-06-14)
+
+
+### Bug Fixes
+
+* update deps ([4bd0e74](https://github.com/untrustedmodders/plugify-source2-launcher/commit/4bd0e74c6848b2780fd9cd9fc8c9ef9d3ccd6126))
+
+## [2.4.3](https://github.com/untrustedmodders/plugify-source2-launcher/compare/v2.4.2...v2.4.3) (2026-06-02)
+
+
+### Bug Fixes
+
+* remove deepbind flag ([2fb7eb3](https://github.com/untrustedmodders/plugify-source2-launcher/commit/2fb7eb3a6ffb344ac84cde189ee0ba86be03cddc))
+
 ## [2.4.2](https://github.com/untrustedmodders/plugify-source2-launcher/compare/v2.4.1...v2.4.2) (2026-05-30)
 
 
